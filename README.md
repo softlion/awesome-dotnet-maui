@@ -231,6 +231,9 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 - [Sharpnado.Tabs](https://github.com/roubachof/Sharpnado.Tabs)
   [![GitHub stars](https://img.shields.io/github/stars/roubachof/Sharpnado.Tabs?style=flat-square)](https://github.com/roubachof/Sharpnado.Tabs/stargazers)
   [![GitHub last-commit](https://img.shields.io/github/last-commit/roubachof/Sharpnado.Tabs?style=flat-square)](https://github.com/roubachof/Sharpnado.Tabs/commits) - Pure MAUI and Xamarin.Forms Tabs, including fixed tabs, scrollable tabs, bottom tabs, badge, segmented control, custom tabs, button tabs, bendable tabs.
+- [Vapolia.SegmentedViews](https://github.com/vapolia/SegmentedViews)
+  [![GitHub stars](https://img.shields.io/github/stars/vapolia/SegmentedViews?style=flat-square)](https://github.com/vapolia/SegmentedViews/stargazers)
+  [![GitHub last-commit](https://img.shields.io/github/last-commit/vapolia/SegmentedViews?style=flat-square)](https://github.com/vapolia/SegmentedViews/commits) - Native segmented control on iOS and Android. Supports dynamic segments, custom colors, padding ... while keeping the platform's feeling.
 - [SimpleToolkit](https://github.com/RadekVyM/SimpleToolkit)
   [![GitHub stars](https://img.shields.io/github/stars/RadekVyM/SimpleToolkit?style=flat-square)](https://github.com/RadekVyM/SimpleToolkit/stargazers)
   [![GitHub last-commit](https://img.shields.io/github/last-commit/RadekVyM/SimpleToolkit?style=flat-square)](https://github.com/RadekVyM/SimpleToolkit/commits) - SimpleToolkit is a .NET MAUI library of helpers and simple, easily customizable controls.
